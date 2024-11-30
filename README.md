@@ -6,7 +6,6 @@
 ## My Stack
   <img src="https://img.shields.io/badge/swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-1572B6.svg?style=for-the-badge&logo=uikit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-5AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white" />
     <br>
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />

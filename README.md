@@ -30,10 +30,11 @@
 <br>
 
 ## Experiences
-- 👩🏻‍💻 홍익대학교 컴퓨터공학과 <sub>2022.03 ~ </sub>
-- 🕸️ IT 사이드 프로잭트 동아리 UMC</a> - 6기 Web <sub>2024.03 ~ 2024.08</sub>
-- 🍎 IT 사이드 프로잭트 동아리 UMC</a> - 6기 iOS <sub>2024.09 ~ </sub>
-- 🍎 연합 IT 벤처 창업 동아리 SOPT</a> - 35기 iOS <sub>2024.09 ~ </sub>
-- 🕸️ OODD(Outfit Of Date Day)</a> - 패션기반 인연 매칭 웹 서비스 <sub>2024.06 ~</sub>
+👩🏻‍💻 홍익대학교 컴퓨터공학과 <sub>2022.03 ~ </sub><br>
+🕸️ IT 사이드 프로잭트 동아리 UMC</a> - 6기 Web <sub>2024.03 ~ 2024.08</sub><br>
+🍎 IT 사이드 프로잭트 동아리 UMC</a> - 6기 iOS <sub>2024.09 ~ </sub><br>
+🍎 연합 IT 벤처 창업 동아리 SOPT</a> - 35기 iOS <sub>2024.09 ~ </sub><br>
+🕸️ OODD(Outfit Of Date Day)</a> - 패션기반 인연 매칭 웹 서비스 <sub>2024.06 ~</sub><br>
+
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👩🏻‍💻 Welcome my github ! 🤍</h2> 
+<h2 style="text-decoration: none;">👩🏻‍💻 Welcome my github ! 🤍</h2>
 
 
 ## My Stack

@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 #### My Stack
   <img src="https://img.shields.io/badge/swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />

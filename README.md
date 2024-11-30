@@ -39,8 +39,6 @@
 🍎 연합 IT 벤처 창업 동아리 SOPT</a> - 35기 iOS <sub>2024.09 ~ </sub><br>
 🕸️ OODD(Outfit Of Date Day)</a> - 패션기반 인연 매칭 웹 서비스 <sub>2024.06 ~</sub><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalaurrel&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 </div>

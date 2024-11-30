@@ -3,6 +3,10 @@
 #### My Stack
 <br>
   <img src="https://img.shields.io/badge/swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-1572B6.svg?style=for-the-badge&logo=uikit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-5AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white" />
+    <br>
+
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,6 +20,7 @@
 
 #### Tools
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <br>

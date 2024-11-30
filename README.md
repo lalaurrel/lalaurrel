@@ -34,5 +34,6 @@
 - IT 사이드 프로잭트 동아리 UMC</a> - 6기 Web <sub>2024.03 ~ 2024.08</sub>
 - IT 사이드 프로잭트 동아리 UMC</a> - 6기 iOS <sub>2024.09 ~ </sub>
 - 연합 IT 벤처 창업 동아리 SOPT</a> - 35기 iOS <sub>2024.09 ~ </sub>
+- OODD</a> - Outfit Of Date Day 패션기반 인연 매칭 서비스 <sub>2024.06 ~</sub>
 
 </div>

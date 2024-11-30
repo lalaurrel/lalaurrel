@@ -1,6 +1,6 @@
 <div align="center">
 
-####  :wave: Welcome my github !
+####  👩🏻‍💻 Welcome my github ! 🤍
 
 
 ## My Stack

@@ -1,4 +1,5 @@
 #### My Stack
+<br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,6 +20,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <br>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalaurrel&show_icons=true&theme=omni)
-

@@ -1,6 +1,6 @@
 <div align="left">
 
-#### 👩🏻‍💻 Welcome my github ! 🤍
+#### 👩🏻‍💻 Welcome to my github ! 🤍
 
 
 ## Studying
